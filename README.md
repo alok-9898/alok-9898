@@ -1,7 +1,7 @@
 # 💫 About Me:
 *Working on confidential projects to enhance career opportunities.<br>
 Seeking collaborators to contribute to growth and success.<br>
-Currently learning HTML, CSS, JavaScript, and some Python.*
+Currently learning HTML, CSS, JavaScript, and Python.*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-9898&label=Profile%20views&color=0e75b6&style=flat" alt="alok-9898" /> </p>
 <hr>
 
